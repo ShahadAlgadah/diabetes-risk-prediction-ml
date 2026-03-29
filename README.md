@@ -124,16 +124,21 @@ The models were evaluated using:
 
 ## Project Structure
 
+```text
 diabetes-risk-prediction-ml
-├── dt.png
-├── svm.png
-├── knn.png
-├── Dataset of Diabetes .csv
-├── diabetes_risk_prediction.ipynb
+├── data
+│   └── diabetes_dataset.csv
+├── images
+│   ├── dt.png
+│   ├── svm.png
+│   └── knn.png
+├── notebooks
+│   └── diabetes_risk_prediction.ipynb
 ├── README.md
-└── LICENSE
-└── requirements.txt
-
+├── requirements.txt
+├── LICENSE
+└── .gitignore
+```
 ---
 
 ## How to Run
@@ -144,11 +149,11 @@ git clone https://github.com/ShahadAlgadah/diabetes-risk-prediction-ml.git
 
 Install dependencies:
 
-pip install numpy pandas matplotlib seaborn scikit-learn
+pip install -r requirements.txt
 
 Run the notebook:
 
-jupyter notebook diabetes_risk_prediction.ipynb
+jupyter notebook notebooks/diabetes_risk_prediction.ipynb
 
 ---
 
