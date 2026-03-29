@@ -72,15 +72,14 @@ The models were evaluated using:
 * Classification Report
 
 ## Confusion Matrices
-
 ### Decision Tree
-![Decision Tree](images/decision_tree_cm.png)
+![Decision Tree](https://raw.githubusercontent.com/ShahadAlgadah/diabetes-risk-prediction-ml/blob/main/images/decision_tree_cm%20.png)
 
 ### SVM
-![SVM](images/svm_cm.png)
+![SVM](https://raw.githubusercontent.comShahadAlgadah/diabetes-risk-prediction-ml/blob/main/images/svm_cm%20.png)
 
 ### KNN
-![KNN](images/knn_cm.png)
+![KNN](https://raw.githubusercontent.com//ShahadAlgadah/diabetes-risk-prediction-ml/blob/main/images/knn_cm%20.png)
 
 ## Workflow
 
