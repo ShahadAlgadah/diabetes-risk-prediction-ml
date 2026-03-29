@@ -71,17 +71,17 @@ The models were evaluated using:
 * Confusion Matrix
 * Classification Report
 
-
 ## Confusion Matrices
 
 ### Decision Tree
-<img src="images/decision_tree_cm.png" width="400"/>
+![Decision Tree](images/decision_tree_cm.png)
 
 ### SVM
-<img src="images/svm_cm.png" width="400"/>
+![SVM](images/svm_cm.png)
 
 ### KNN
-<img src="images/knn_cm.png" width="400"/>
+![KNN](images/knn_cm.png)
+
 ## Workflow
 
 1. Data Loading
