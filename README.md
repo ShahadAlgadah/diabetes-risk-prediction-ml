@@ -96,8 +96,14 @@ The models were evaluated using:
 ---
 
 ## Confusion Matrices
+
+### Decision Tree
 ![Decision Tree](images/dt.png)
+
+### SVM
 ![SVM](images/svm.png)
+
+### KNN
 ![KNN](images/knn.png)
 
 ---
