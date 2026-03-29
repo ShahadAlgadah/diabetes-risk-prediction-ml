@@ -132,6 +132,7 @@ diabetes-risk-prediction-ml
 ├── diabetes_risk_prediction.ipynb
 ├── README.md
 └── LICENSE
+└── requirements.txt
 
 ---
 
